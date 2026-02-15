@@ -1,0 +1,44 @@
+body{
+    background-color: peachpuff;
+}
+nav{
+    background-color: brown;
+    margin-bottom: 20px;
+    border:3px solid white;
+    padding: 10px;
+    border-radius: 8px;
+}
+iframe{
+    width: 70%;
+    height: 750px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    
+}
+img{
+    margin: 10px;
+}
+p{
+    font-size: large;
+    font-weight: 600;
+}
+h1{
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+table,td,th{
+    background-color: chocolate;
+    border: solid white 2.3px;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+td,th{
+    padding: 10px;
+}
+tr{
+    background-color: palegoldenrod;
+}
